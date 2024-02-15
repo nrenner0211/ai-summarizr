@@ -1,4 +1,4 @@
-import { default as logo } from '../assets/logo.svg';
+import { default as logo } from '../assets/summa-logo.png';
 
 const Hero = () => {
   return (
@@ -21,7 +21,7 @@ const Hero = () => {
         </span>
       </h1>
       <h2 className="desc">
-        Simplify your reading with Sumz, an open-source article summarizer that transforms lengthy articles into clear and concise summaries
+        Summa streamlines your reading experience by converting long articles into concise summaries with its open-source article summarizer. Works best on websites with clearly defined blocks of text.
       </h2>
     </header>
   )
