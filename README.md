@@ -1,6 +1,6 @@
 # AI Summarizer
 
-![Screen Capture](src/assets/ai-summarizer.png)
+![Screen Capture](src/assets/summa-screenshot.png)
 
 ## Table of Contents
 
