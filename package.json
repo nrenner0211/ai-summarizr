@@ -1,8 +1,9 @@
 {
   "name": "ai_summarizer",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
+  "homepage": "https://ai-summarizr.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
