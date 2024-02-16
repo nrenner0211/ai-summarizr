@@ -21,7 +21,7 @@ const Hero = () => {
         </span>
       </h1>
       <h2 className="desc">
-        Summa streamlines your reading experience by converting long articles into concise summaries with its open-source article summarizer. Works best on websites with clearly defined blocks of text.
+        Summa converts articles links into concise summaries with an open-source article summarizer. Works best on websites with clearly defined blocks of text.
       </h2>
     </header>
   )
