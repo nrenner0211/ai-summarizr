@@ -1,6 +1,6 @@
 # AI Summarizer
 
-![Screen Capture](src/assets/summa-screenshot.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/75f0c3a2-8f23-4a89-be74-69ba5ecee0d1/deploy-status)](https://app.netlify.com/sites/ai-summarizr/deploys)
 
 ## Table of Contents
 
@@ -16,7 +16,9 @@
 
 ## About
 
-Fully responsive SaaS website that utilizes OpenAI API to summarize articles by URL. Saves URLs to local storage so you don't lose your progress.
+> ![Screen Capture](src/assets/summa-screenshot.png)
+
+100% RESPONSIVE SaaS website that summarizes articles by URL and saves history to local storage. Future services planned 🔥
 
 ## Links
 
